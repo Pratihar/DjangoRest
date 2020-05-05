@@ -1,0 +1,1 @@
+A Practice session to get familiar with Django rest Framework.
